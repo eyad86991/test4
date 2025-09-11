@@ -33,4 +33,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-new-21-game](https://github.com/eyad86991/test4/tree/master/0867-new-21-game) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/eyad86991/test4/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/eyad86991/test4/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
